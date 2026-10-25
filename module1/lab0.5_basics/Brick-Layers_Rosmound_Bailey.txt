@@ -2,4 +2,5 @@ Spotter = Brandon Morse
 Teammates = Darian, Matt and Steven
 Days + Times when the team meets = Monday & Saturday, 8:00PM ET
 
-Times arent established yet as everyone is on different timezones. When the homework and class difficulty progresses that's when we will have a usual study time and day. For now Monday and Saturday is our day.
+Study Times;
+Monday 8pm est 12:30am bst, Saturday 5pm est 10pm bst and Sunday 9am est 1pm bst.
