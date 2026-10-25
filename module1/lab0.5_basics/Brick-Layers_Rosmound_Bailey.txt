@@ -1,6 +1,3 @@
 Spotter = Brandon Morse
-Teammates = Darian, Matt and Steven
-Days + Times when the team meets = Monday & Saturday, 8:00PM ET
-
-Study Times;
-Monday 8pm est 12:30am bst, Saturday 5pm est 10pm bst and Sunday 9am est 1pm bst.
+Teammates = Darian George, Matt Blac and Steven Roscoe
+Days + Times when the team meets = Monday 8pm est 12:30am bst, Saturday 5pm est 10pm bst and Sunday 9am est 1pm bst.
