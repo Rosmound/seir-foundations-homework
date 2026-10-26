@@ -1,3 +1,3 @@
-Spotter = Brandon Morse
-Teammates = Darian George, Matt Blac and Steven Roscoe
+Spotter = Brandon Morse.
+Teammates = Darian George, Taron Warrior, Matt Blac and Steven Roscoe.
 Days + Times when the team meets = Monday 8pm est 12:30am bst, Saturday 5pm est 10pm bst and Sunday 9am est 1pm bst.
