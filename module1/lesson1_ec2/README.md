@@ -8,6 +8,5 @@
 | **Run 4** | 2026-10-31 | Europe/London | `i-0135beacedb51c0b7` | `2026-10-31 17:31:50` | `3.94.143.136` | `lab1_run4.jpg` | Yes |
 | **Run 5** | 2026-11-02 | Europe/London | `i-0b1e7ce10d4b9c3eb` | `2026-11-02 00:25:18` | `3.95.67.182` | `lab1_run5.jpg` | Yes |
 | **Run 6** | 2026-11-02 | Europe/London | `i-006774b3d6bd4f8f6` | `2026-11-02 18:37:26` | `34.202.236.0` | `lab1_run6.jpg` | Yes |
-| **Run 7** |  | Europe/London |  |  |  | `lab1_run7.jpg` |  |
-
+| **Run 7** | 2026-11-02 | Europe/London | `i-00985bd8e86aa9fd0` | `2026-11-02 23:01:49` | `52.200.32.151` | `lab1_run7.jpg` | Yes |
 
