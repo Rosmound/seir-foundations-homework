@@ -2,7 +2,7 @@ Spotter = Brandon   (the person who spots YOU)
 5 things my spotter learned while working on the lab / homework:
 1. Assigning the improper inbound rules may allow the SSH instance to load, but not the webpage and vice versa.
 2. Installs on EC2 SSH instances can retain memory between instances that share a private IP for a short period of time.
-3. The proper file path for displaying pngs and jpgs is ![alt text](path) in .md files.
+3. The proper file path for displaying pngs and jpgs is in .md files.
 4. Instances launched from templates can be renamed through the "Name" tag.
 5. Unique "Instance IDs" are what give instances uniqueness and not their "Name" tag.
 
