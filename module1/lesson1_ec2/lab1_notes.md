@@ -26,3 +26,37 @@ For my fourth run, I successfully executed the full lab sequence while carefully
 Exact Output Line:
 2026-10-31 17:31:50
 
+Run 5
+Instance ID: i-0b1e7ce10d4b9c3eb
+Summary:
+For my fifth run, I completed the full installation and server setup sequence on a fresh EC2 instance before performing the mandatory COBOL practice tasks. I experienced an issue when running custom transactions without semicolon separators, which caused exit code checks to fail when commands threw errors. After correcting the syntax to use semicolons, I successfully executed and verified all four COBOL exit codes (0, 4, 8, 12).
+Exact Output Line:
+boot-time: 2026-11-02 00:25:18
+
+Run 6
+Instance ID: i-006774b3d6bd4f8f6
+Summary:
+During my sixth run, I executed the full automation and verification sequence while focusing on executing manual fixed-width ledger slicing using Linux cut commands. I initially ran into an issue where the SSH terminal session froze during execution, which I resolved by establishing a fresh SSH connection back into /opt/balerica-bank. This run reinforced how fixed-width records store account data deterministically across legacy file systems.
+Exact Output Line:
+100001Alice Johnson             ACTIVE  000005000000USD
+
+Run 7
+Instance ID: i-00985bd8e86aa9fd0
+Summary:
+For my final lab run, I executed the end-to-end setup sequence for the seventh time to solidify complete muscle memory for EC2 provisioning and application deployment. The installation and initialization executed cleanly with zero pathing or permission errors. Completing this final iteration cemented my understanding of how cloud infrastructure lifecycle management integrates with application runtime execution.
+Exact Output Line:
+INFO:     Application startup complete.
+
+## COBOL Practice Section
+
+- **Run Used:** Run 6
+- **Instance ID:** `i-006774b3d6bd4f8f6`
+- **Location:** `/opt/balerica-bank`
+
+### 1. Return Code Verification (`echo $?`)
+
+* **Return Code 0 (Success):**
+  ```bash
+  cd /opt/balerica-bank
+  ./cobol/bin/account_lookup 100001; echo $?
+
