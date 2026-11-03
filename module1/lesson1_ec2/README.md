@@ -3,7 +3,7 @@
 | Run | Date | Time zone | Instance ID | Boot time (UTC) | Public IPv4 / DNS | Screenshot | Terminated? |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
 | **Run 1** | 2026-10-30 | Europe/London | `i-099a7c064e4c9cb04` | `2026-10-30 14:08:45` | `172.31.27.84` | <img width="1710" height="746" alt="lab1_run1 jpg" src="https://github.com/user-attachments/assets/82aa93ec-a27f-4f05-8202-e17c90685a95" />
- | Yes |
+ | "Yes" |
 | **Run 2** | 2026-10-31 | Europe/London | `i-093cdb12d18241732` | `2026-10-31 01:59:43` | `54.163.66.89` | <img width="2102" height="928" alt="lab1_run2" src="https://github.com/user-attachments/assets/befbf44f-81a4-4ce3-9f12-5b051fe95a97" />
  | Yes |
 | **Run 3** | 2026-10-31 | Europe/London | `i-0761579b3aa9d7b8e` | `2026-10-31 02:36:03` | `172.31.25.208` | <img width="2114" height="1028" alt="lab1_run3" src="https://github.com/user-attachments/assets/ae1d8cc1-52cc-4842-aa8b-e9f6878a09c9" />
