@@ -1,0 +1,56 @@
+==================================================================== AI-ENABLED STUDY & RESEARCH: LAB 1.0
+
+Preferred AI: ChatGPT (OpenAI)
+Research date: November 3, 2026
+
+1. DATABASES
+
+Relational databases organize information into tables, rows and columns, making them useful for banking and other applications that require accurate and consistent records (AWS, 2026). Non-relational databases, also called NoSQL databases, use flexible formats such as documents and key-value pairs. SQL databases are generally suitable for structured information, while NoSQL databases can be useful for flexible and large-scale applications. PostgreSQL is a popular open-source relational database known for reliability, security and advanced features, although it requires proper administration. Cloud services such as Amazon RDS make it easier for businesses to manage databases without maintaining all the underlying infrastructure themselves.
+
+Sources:
+
+Reading: AWS – Relational vs Non-relational Databases: https://aws.amazon.com/compare/the-difference-between-relational-and-non-relational-databases/
+Video: IBM Technology – SQL vs. NoSQL.
+AI: ChatGPT (OpenAI, 2026) – Database types, cloud databases, SQL vs NoSQL and PostgreSQL.
+2. COBOL
+
+COBOL stands for Common Business-Oriented Language and was developed in 1959 by CODASYL, with important contributions from computer pioneer Grace Hopper (IBM, 2026). It was designed for business applications and is still used in banking, insurance and government systems. Many organizations continue using COBOL because replacing older systems can be expensive, complicated and risky. There is no reliable universal average age for COBOL programmers, but the industry faces challenges finding people with experience maintaining older systems. According to IBM (2026), modernizing COBOL applications can involve connecting existing programs to APIs and cloud services instead of completely rewriting them. I learned that COBOL remains valuable because important organizations still depend on the business processes and information stored in these older systems.
+
+Sources:
+
+Reading: Wikipedia – COBOL: https://en.wikipedia.org/wiki/COBOL
+Video: Fireship – COBOL in 100 Seconds.
+AI: ChatGPT (OpenAI, 2026) – COBOL history, usage, financial importance and modernization.
+Additional reference: IBM – What Is COBOL?: https://www.ibm.com/think/topics/cobol
+3. SWIFT & ISO 20022
+
+SWIFT stands for Society for Worldwide Interbank Financial Telecommunication and was introduced in 1973 to help financial institutions communicate securely about international payments. It is a messaging network rather than a bank that physically transfers money. Other payment networks include CIPS and SPFS, although they do not provide exactly the same services. ISO 20022 is a newer financial messaging standard that provides more structured payment information. The older MT103 message corresponds to pacs.008, while MT202 corresponds to pacs.009 for financial institution transfers. According to Swift (2025), the MT and ISO 20022 coexistence period for cross-border payment instructions ended on November 22, 2025. I learned that this modernization helps financial institutions exchange clearer payment information and improve international transaction processing.
+
+Sources:
+
+Reading: Wikipedia – SWIFT: https://en.wikipedia.org/wiki/SWIFT
+Video: a16z – Foreign Exchange 101.
+AI: ChatGPT (OpenAI, 2026) – SWIFT history, competitors and ISO 20022.
+Official reference: Swift – ISO 20022 FAQs: https://www.swift.com/standards/iso-20022/iso-20022-faqs
+4. APIs
+
+APIs, or Application Programming Interfaces, allow different software applications to communicate and exchange information. Roy Fielding introduced the REST architectural style in his doctoral dissertation in 2000. REST APIs commonly use HTTP methods such as GET to retrieve information and POST to submit information (MDN, 2026). APIs are important for cloud computing and artificial intelligence because they connect applications, databases and AI services. However, APIs must be protected using authentication, authorization and input validation to prevent unauthorized access and incorrect data from entering a system. I learned that understanding JSON, GET and POST requests, and data validation will be important for my next AWS lab.
+
+Sources:
+
+Reading: MDN – An Overview of HTTP: https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Overview
+Video: IBM Technology – What Is a REST API?
+AI: ChatGPT (OpenAI, 2026) – API history, usage, competitors, AI integration and security.
+Additional reference: OWASP – API Security: https://owasp.org/www-project-api-security/
+5. INTERSECTION OF COBOL, SWIFT, APIs & DATABASES
+
+COBOL, SWIFT, APIs and databases work together to support important organizations and their information systems. Banks use COBOL to process business transactions, databases to store account information and SWIFT to exchange international payment messages. APIs help connect older systems to modern applications and cloud services. Hospitals use databases and APIs to manage patient information, while schools use them to maintain student records and academic information. Government organizations also depend on older computer systems to provide important public services. According to the US Government Accountability Office (2025), eight of the eleven critical federal legacy systems it identified used outdated programming languages. Replacing these systems can be expensive and risky, so organizations often modernize them gradually by connecting existing technology to newer platforms. I learned that combining older and newer technologies helps financial, medical, academic and government organizations maintain reliable services while improving their systems.
+
+Sources:
+
+Reading: US GAO – Modernizing Critical Decades-Old Legacy Systems (2025): https://www.gao.gov/products/gao-25-107795
+Video: Modernizing COBOL – From Mainframe to API (assigned course video).
+AI: ChatGPT (OpenAI, 2026) – How COBOL, SWIFT, APIs and databases support important industries.
+==================================================================== FINAL REFLECTION
+
+This research helped me understand how older and newer technologies work together. I learned that COBOL supports important business systems, SWIFT connects financial institutions, databases store information and APIs allow applications to communicate. I also learned that modernizing older systems takes careful planning because organizations must protect important information and keep their services running. These topics helped me understand the technology behind modern banking, government services and cloud computing.
