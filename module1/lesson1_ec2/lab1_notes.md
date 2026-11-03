@@ -47,16 +47,4 @@ For my final lab run, I executed the end-to-end setup sequence for the seventh t
 Exact Output Line:
 INFO:     Application startup complete.
 
-## COBOL Practice Section
-
-- **Run Used:** Run 6
-- **Instance ID:** `i-006774b3d6bd4f8f6`
-- **Location:** `/opt/balerica-bank`
-
-### 1. Return Code Verification (`echo $?`)
-
-* **Return Code 0 (Success):**
-  ```bash
-  cd /opt/balerica-bank
-  ./cobol/bin/account_lookup 100001; echo $?
 

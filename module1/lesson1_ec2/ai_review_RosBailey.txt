@@ -1,0 +1,53 @@
+I used Google Gemini
+https://share.gemini.google/DqRbooJbqjZf
+
+====================================================================
+AI REVIEW & LESSON 1 RUNBOOK AUDIT
+====================================================================
+
+---
+QUESTION 1: What command should I run to record my mandatory instance metadata and boot timestamp for my lab run?
+-  learned that I can use one command to collect important information about my EC2 instance. The command checks my Linux username, displays the current date and time in my local time zone, shows my EC2 instance ID, and tells me when the instance was first started. This information is important because it proves which instance I used and helps me keep accurate records of each lab run.
+
+How I checked it:
+
+I ran the command directly in my EC2 terminal and checked the results. I compared the instance ID with the AWS EC2 console to make sure they matched. I also checked the date and boot time to make sure the information was correct.
+
+---
+QUESTION 2: How do I resolve Git divergent branches errors during a `git pull` when my local repository and GitHub have conflicting commit histories?
+- learned that I can use one command to collect important information about my EC2 instance. The command checks my Linux username, displays the current date and time in my local time zone, shows my EC2 instance ID, and tells me when the instance was first started. This information is important because it proves which instance I used and helps me keep accurate records of each lab run.
+
+How I checked it:
+
+I ran the command directly in my EC2 terminal and checked the results. I compared the instance ID with the AWS EC2 console to make sure they matched. I also checked the date and boot time to make sure the information was correct.
+---
+QUESTION 3: What are the exact steps required to test GnuCOBOL return codes and verify account lookup behavior?
+- AI learned that COBOL programs can return different numbers depending on whether a task succeeds or fails. I used the account lookup and payment posting programs to test different situations. Return code 0 means the operation was successful, 4 means the account could not be found, 8 means the transaction was rejected, and 12 means there was an environment or execution problem. I also learned that I need to run echo $? immediately after each program to see its return code.
+
+How I checked it:
+
+I ran the COBOL programs manually in my EC2 terminal and followed each command with echo $?. I compared the results with the expected return codes in the homework instructions. This helped me understand how the programs respond to successful transactions, missing accounts, rejected payments and incorrect working environments.
+---
+QUESTION 4: How do I slice a fixed-width data file by hand in Linux to extract account ledger details?
+- AI learned that Linux has a command called cut that allows me to extract specific characters from a text file. The -c option tells Linux which character positions I want to display. This is useful when working with fixed-width files because the information is stored in specific character positions rather than separated by commas or spaces.
+
+How I checked it:
+
+I ran the cut -c command inside the /opt/balerica-bank directory. I checked the output and compared the extracted information with the account records. I was able to identify the customer information for Alice Johnson, Robert Smith and Maria Garcia.
+---
+QUESTION 5: How does AWS provision ephemeral infrastructure and assign unique identifiers to newly launched virtual machines?
+- I learned that every time I launch a new EC2 instance, AWS creates a separate virtual machine and assigns it a unique instance ID. The instance can also receive its own network information, such as private and public IP addresses. I understood that launching a completely new instance is important for this assignment because each lab run needs to be completed on a fresh machine rather than reusing an old one.
+
+How I checked it:
+
+I compared the instance IDs from my different EC2 lab runs with the information displayed in the AWS console. I checked that each run used a different instance ID and public DNS name. I also compared the boot times recorded in my screenshots with my README table to make sure the information matched.
+---
+WHERE THE AI WAS WRONG, VAGUE, OR OUT OF DATE:
+
+During the lab, the AI made a mistake when reading my Run 2 EC2 instance ID. My correct instance ID was i-093cdb12d18241732, but the AI misread it as i-0933cdb12d18241732, adding an extra number 3.
+
+Even after I pointed out the mistake, the AI initially continued to disagree before eventually recognizing the error and apologizing. This taught me that AI can sometimes misread information, especially when dealing with long strings of numbers and letters.
+
+I learned that I should never rely entirely on AI when checking important technical information. Instead, I should compare the information with my actual terminal output and AWS console. This experience showed me why checking my own work is important when using AI for technical assignments.
+
+
