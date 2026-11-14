@@ -1,0 +1,3 @@
+Write about "HeadfirstAgile" 3 key takeaways from the 1-3 chapters. Only on page 15 right now will read 5 to 10 before sleeping.
+
+Agile is dependant on the entire teams mindset, if the entire isnt engaged and listenin to each other they wont get the task done since every employees work is connected to another. If the whole team is commited to agile then the work wil flow and the entire team will be sufficient and organised when dealing with the Epic/Story/Tasks. From the project manager, lead programmer and even the junior programmers: everyone has to carry the same agile mindset and be committed to the methods and methodologies.
